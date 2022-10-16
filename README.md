@@ -5,7 +5,6 @@ Laboratory Report App
 ![patient](https://user-images.githubusercontent.com/84589118/196057641-f3fcbbd3-59aa-44d6-9dc9-a7d6b4652512.png)
 ![jp](https://user-images.githubusercontent.com/84589118/196057642-4974ba57-62be-49c0-9abb-70a1e5b02259.png)
 
-patient-detail patients
 
 Başvurduğum staj pozisyonu için istenen basit laboratuvar uygulaması isterleri: Başvurunuzu daha iyi değerlendirebilmek için, temel bir uygulama geliştirmenizi istiyoruz.
 
