@@ -1,0 +1,19 @@
+.reports-title{
+	text-align:center;
+}
+.reports-table-div{
+	
+	
+	width: 48%;background-color: #12928F;
+}
+.reports-div{
+	
+	display:flex;align-items:center;justify-content:center;width:100%;padding:12px;
+}
+@media screen and (max-width: 767px)  {
+
+.reports-table-div{
+	width:100%;
+}
+
+}

@@ -1,0 +1,20 @@
+.patients-table{
+	width: 48%!important;background-color:#12928F!important;
+	
+	
+}
+
+.patients-div{
+	
+		display:flex;align-items:center;justify-content:center;width:100%;
+		padding:12px;
+}
+
+
+@media screen and (max-width: 768px)  {
+
+.patients-table,.search-button-div,#search-button{
+	width: 100%!important;
+}
+
+}

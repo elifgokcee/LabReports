@@ -1,0 +1,99 @@
+body *{
+  font-family: Garamond, serif;
+ 
+
+
+}
+html{
+	height: 100%;
+}
+body{
+	overflow:auto;
+	margin:0;
+	padding:0;
+	background-image: linear-gradient(to right top, #2f4858, #256676, #10858b, #29a492, #5ec28d);
+	background-repeat: no-repeat;
+	height: 100%;
+}
+.title{
+	color:white!important;margin:0;
+	font-size:24px;
+	padding:12px;
+	width: 100%;
+	text-align: center;
+}
+.navbar{
+		background-color: #2F4858;
+	width: 100%;
+}
+.input-login{
+	border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+}
+
+.bg-div{
+	margin-top:48px!important;
+	width:400px;
+	height:400px;
+align-items:center;background-color:#5EC28D;margin:24px auto;padding:12px;border-radius:8px;
+	border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+
+}
+.bg-div:hover,.bg-div:focus{
+	-webkit-box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+-moz-box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+}
+.ha-div{
+	
+margin:0 auto;
+width:64%;
+
+}
+
+
+.btn-login{
+margin-top:48px;border:none;width:100%;background-color:#12928F
+}
+@media screen and (max-width: 780px)  {
+
+.bg-div{
+
+	width:80%!important;
+
+}
+.ha-div{
+
+	width:64%!important;
+	
+	
+}
+.form-control{
+
+	width:100%!important;
+	
+}
+
+.wrong-alert{
+	width:36%;margin:20px auto;
+}
+}
+
+@media screen and (max-width: 600px)  {
+
+
+.ha-div{
+
+	width:100%!important;
+	
+	
+}
+.bg-div{
+
+	width:96%!important;
+
+}
+
+
+}

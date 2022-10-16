@@ -1,0 +1,23 @@
+
+<div th:fragment="navbar"> 
+<div class="navbar">
+<h1 class="title">LABORATORY REPORT SYSTEM</h1>
+<button class="btn text-white logout-button mt-2 mb-2" type="button" th:onclick="window.location.href='/login'">Log out</button>
+</div>
+
+      
+
+
+<ul class="nav nav-pills nav-fill navs" >
+  <li class="nav-item">
+    <a class="nav-link p-3 mb-2 text-white get-patients-button" th:href="@{/patients}">PATIENTS</a>
+  </li>
+  <li class="nav-item" >
+    <a class="nav-link  p-3 mb-2 text-white get-reports-button" aria-current="page" th:href="@{/patientreports}">REPORTS</a>
+  </li>
+
+  
+
+  
+</ul>
+</div>

@@ -1,0 +1,28 @@
+.add-diagnosis-button{
+		border:none;
+	
+		background-color:#5EC28D;
+		color:white;
+		float: right;
+		padding:12px;
+		
+		
+         
+  
+}
+
+.button-div{
+width: 48%;
+
+
+}
+.button-div-div{
+	display:flex;align-items:center;justify-content:center;width:100%;padding:12px;
+}
+@media screen and (max-width: 767px)  {
+
+.button-div,.add-diagnosis-button{
+	width:100%;
+}
+
+}

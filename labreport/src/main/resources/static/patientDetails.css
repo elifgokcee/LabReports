@@ -1,0 +1,43 @@
+
+@media screen and (max-width: 767px)  {
+
+
+.patient-table{
+	width:90%!important;
+
+	
+}
+
+.add-report-button-div{
+	
+width:100%!important;
+}
+.add-report-button{
+	width:64%!important;
+	float:right;
+}
+.reports-of-patient-table{
+	
+	width: 90%!important;
+}
+}
+.patient-table{
+	width: 48%;margin:16px;background-color: #12928F;
+}
+.add-report-button-div{
+	
+	display:flex;align-items:center;justify-content:center;width:100%;
+}
+.add-report-button{
+	width:16%;background-color:#5EC28D;margin:0 auto;
+}
+.reports-of-patient-table{
+	
+	width: 48%;margin:16px;background-color: #12928F
+}
+.reports-of-patient-table-div,.patient-table-div{
+	display:flex;align-items:center;justify-content:center;width:100%;
+}
+
+
+

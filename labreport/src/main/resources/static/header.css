@@ -1,0 +1,84 @@
+
+body *{
+	  font-family: Garamond, serif;
+}
+html{
+	height: 100%;
+		overflow:auto;
+}
+.search-button-div-div{
+	
+display:flex;align-items:center;justify-content:center;width:100%;padding:12px;
+}
+.search-button-div{
+	width: 48%;
+}
+#search-button{
+	
+	border-radius: 4px;
+	width:48%;
+	outline: none;
+	float: right;
+		border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+	
+	
+}
+#search-button:focus{
+width: 52%;-webkit-box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+-moz-box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+box-shadow: 11px 14px 28px 4px rgba(47,72,88,0.7);
+
+}
+body{
+	overflow:auto;
+	margin:0;
+	padding:0;
+	background-image: linear-gradient(to right top, #2f4858, #256676, #10858b, #5ec28d);
+	background-repeat: no-repeat;
+	height: 100%;
+}
+.title{
+	color:white!important;margin:0;
+	font-size:24px;
+	
+	width: 64%;
+}
+.logout-button {
+border:none;
+	float:right;
+	background-color:#5EC28D;
+		border:1px solid #ffffff;
+	box-shadow:  2px 2px #ffffff;
+}
+.get-patients-button,.get-reports-button,.nav-elements{
+	
+	margin:8px;background-color:#5EC28D;
+		border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+}
+
+.navbar{
+	background-color: #2F4858;
+	width: 100%;
+	
+	
+}
+
+
+@media screen and (max-width: 767px)  {
+
+.navs{
+
+  display: flex;
+  flex-direction: column;
+ 
+width:100%;
+}
+.search-button-div,#search-button{
+	width:100%;
+}
+
+
+
+}

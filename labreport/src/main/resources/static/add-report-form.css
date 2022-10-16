@@ -1,0 +1,35 @@
+
+.login-div{
+width:64%;height:400px;
+}
+.form-div{
+
+	border:solid 1px #2F4858;
+	box-shadow:  2px 4px #2F4858;
+	background-color: #12928F!important;
+
+
+}
+#save-button{
+	background-color:#5EC28D;
+
+     color:white;
+	border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+
+}
+.ha-div{
+margin:0 auto;
+width:64%;
+
+}
+input{
+margin:8px;
+}
+.add-report-header h1{
+background-color:#12928F ;
+	border:1px solid #2F4858;
+	box-shadow:  2px 4px #2F4858;
+}
+h1{
+color:white!important;}

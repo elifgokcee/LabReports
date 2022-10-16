@@ -1,0 +1,64 @@
+body *{
+font-family:monospace!important;
+}
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+}
+
+input {
+	outline: none;
+	border: none;
+	width: 100%;
+	padding: 5px;
+	border-radius: 6px;
+	
+   
+}
+
+.input-div {
+	width:84%;
+	margin: 0 auto;
+	
+}
+
+.form-div {
+align-items:center;background-color:#5EC28D;margin:0 auto;padding:24px;width:48%;border-radius:24px;height:460px;
+}
+
+h1{color:beige;text-align:center;padding:16px;margin-bottom:64px!important;background-color:#5EC28D;
+width:100%;margin:0 auto;
+}
+#register-div {
+	margin: 0 auto;
+	width: 64%;
+	height: 400px;
+	
+}
+.sign-up-button{
+border: none; width: 100%;background-color:#12928F;margin-top:16px
+}
+
+@media screen and (max-width: 780px)  {
+
+
+.form-div{
+
+	width:80%!important;
+	
+	
+}
+
+
+}
+@media screen and (max-width: 600px)  {
+
+
+.form-div,#register-div{
+
+	width:96%!important;
+	
+	
+}
+
+
+}
