@@ -4,6 +4,10 @@ Laboratory Report App
 ![login](https://user-images.githubusercontent.com/84589118/196057638-b2b72245-a3b4-4741-894d-528161f891b8.png)
 ![patient](https://user-images.githubusercontent.com/84589118/196057641-f3fcbbd3-59aa-44d6-9dc9-a7d6b4652512.png)
 ![jp](https://user-images.githubusercontent.com/84589118/196057642-4974ba57-62be-49c0-9abb-70a1e5b02259.png)
+![image](https://user-images.githubusercontent.com/84589118/205135101-d1b56a23-15d7-45ee-b035-ceed82f77619.png)
+![image](https://user-images.githubusercontent.com/84589118/205135075-c8c05abb-341d-4ec4-8670-7b009539d109.png)
+
+
 
 
 Başvurduğum staj pozisyonu için istenen basit laboratuvar uygulaması isterleri: Başvurunuzu daha iyi değerlendirebilmek için, temel bir uygulama geliştirmenizi istiyoruz.
